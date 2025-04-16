@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu0753
 - 👀 I’m interested in ...web and software development
-- 🌱 I’m currently learning ...B.E ECE 
+- 🌱 Working at Wipro technologies 
 - 📫 How to reach me ...muruganvishnu753@gmail.com
 
 <!---
